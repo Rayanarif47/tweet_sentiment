@@ -1,5 +1,0 @@
-venv
-**.csv
-Dataset/Abbreviations and Slang.csv
-Dataset/training.1600000.processed.noemoticon.csv
-*.pkl
